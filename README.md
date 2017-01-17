@@ -1,1 +1,1 @@
-# Rpi Sensor Statistics
+# Raspberry PI Sensor Statistics
